@@ -1,0 +1,1 @@
+This is a simple calculator which performs addition, subtration, multiplication and division using file handling. We print the output to the screen reading from the file.
